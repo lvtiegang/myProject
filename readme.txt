@@ -1,1 +1,1 @@
-This is a SpringMVC project!
+This is a SpringMVC project !
